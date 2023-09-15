@@ -96,7 +96,15 @@ line-height: 1.5
 
 }
 .second-sector {
-background:  #FFFFFF
+background: #F4F4FD
+}
+.title-img {
+    color: #FFFFFF
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.4px;
 }
 .last-sector {
 background-color: #FFFFFF
@@ -112,14 +120,7 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 line-height: 1.11
 }
-.title-img {
-color: #2E2F42;
-text-align: center;
-font-size: 20px;
-font-weight: 500;
-line-height: 24px; 
-letter-spacing: 0.4px;
-}
+
 .sub-title {
 color:  #434455;
 text-align: center;
