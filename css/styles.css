@@ -28,13 +28,22 @@ line-height: 21px;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
+.header-link:hover {
+    color: #404BBF;
+}
+
+.header-link:focus {
+    color: #404BBF;
+}
+
 .header-link {
 color: #2E2F42;
 font-size: 16px;
 font-weight: 500;
 line-height: 24px; 
 letter-spacing: 0.32px;
-}
+} 
+
  .address-link:hover {
 color: #404BBF;
  }
