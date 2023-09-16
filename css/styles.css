@@ -35,9 +35,7 @@ font-weight: 500;
 line-height: 24px; 
 letter-spacing: 0.32px;
 }
- .header-link:hover {
-color: #404BBF;
- }
+ .header-link:hover,
  .header-link:focus {
 color: #404BBF;
  }
@@ -122,6 +120,9 @@ line-height: 40px;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 line-height: 1.11;
+}
+.sector-name {
+background-color: #FFFFFF;
 }
 
 .sub-title {
