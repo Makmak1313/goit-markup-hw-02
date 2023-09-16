@@ -35,7 +35,9 @@ font-weight: 500;
 line-height: 24px; 
 letter-spacing: 0.32px;
 }
- .address-link:hover,
+ .address-link:hover {
+color: #404BBF;
+ }
  .address-link:focus {
 color: #404BBF;
  }
