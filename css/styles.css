@@ -35,7 +35,9 @@ font-weight: 500;
 line-height: 24px; 
 letter-spacing: 0.32px;
 }
- .header-link:hover,
+ .header-link:hover {
+color: #404BBF;
+ }
  .header-link:focus {
 color: #404BBF;
  }
@@ -97,12 +99,15 @@ line-height: 1.5;
 background-color: #F4F4FD;
 }
 .title-img {
-background-color: #FFFFFF;
+color:#2e2f42;
 text-align: center;
 font-size: 20px;
 font-weight: 500;
 line-height: 24px;
 letter-spacing: 0.4px;
+}
+.title-img {
+background-color: #FFFFFF;
 }
 .last-sector {
 background-color: #FFFFFF;
@@ -126,6 +131,9 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px; 
 letter-spacing: 0.32px;
+}
+.sub-title {
+background-color: #FFFFFF
 }
 .second-title-img {
 color:  #2E2F42;
