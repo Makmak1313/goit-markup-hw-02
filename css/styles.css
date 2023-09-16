@@ -121,10 +121,9 @@ letter-spacing: 0.72px;
 text-transform: capitalize;
 line-height: 1.11;
 }
-.sector-name {
+.sector-list {
 background-color: #FFFFFF;
 }
-
 .sub-title {
 color:  #434455;
 text-align: center;
