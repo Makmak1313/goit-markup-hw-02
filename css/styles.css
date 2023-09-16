@@ -12,14 +12,14 @@ list-style-type: none;
 }
 .header-logo { 
 color:  #4D5AE5;
-font-family: "Raleway", sans-serif
+font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 21px; 
 letter-spacing: 0.54px;
 text-transform: uppercase;
-line-height: 1.17
-letter-spacing: 0.03em
+line-height: 1.17;
+letter-spacing: 0.03em;
 }
 .logo-item {
 color:  #2E2F42;
@@ -61,7 +61,7 @@ font-size: 56px;
 font-weight: 700;
 line-height: 60px; 
 letter-spacing: 1.12px;
-line-height: 1.07
+line-height: 1.07;
 }
 .main-sector-btn {
 background: #4D5AE5;
@@ -70,13 +70,13 @@ font-size: 16px;
 font-weight: 500;
 line-height: 24px; 
 letter-spacing: 0.64px;
-cursor: pointer
+cursor: pointer;
 }
 .main-sector-btn:hover {
-background-color: #404BBF
+background-color: #404BBF;
 }
 .main-sector-btn:focus {
-background-color: #404BBF
+background-color: #404BBF;
 }
 
 .title {
@@ -91,15 +91,15 @@ color: #434455;
 font-size: 16px;
 font-weight: 400; 
 letter-spacing: 0.32px;
-letter-spacing: 0.02em
-line-height: 1.5
+letter-spacing: 0.02em;
+line-height: 1.5;
 
 }
 .second-sector {
-background:  #FFFFFF
+background:  #FFFFFF;
 }
 .title-img {
-    color: #FFFFFF
+    color: #FFFFFF;
     text-align: center;
     font-size: 20px;
     font-weight: 500;
@@ -107,10 +107,10 @@ background:  #FFFFFF
     letter-spacing: 0.4px;
 }
 .last-sector {
-background-color: #FFFFFF
+background-color: #FFFFFF;
 }
 .sector-name {
-color: #2e2f42
+color: #2e2f42;
 text-align: center;
 font-size: 36px;
 font-style: normal;
@@ -118,7 +118,7 @@ font-weight: 700;
 line-height: 40px; 
 letter-spacing: 0.72px;
 text-transform: capitalize;
-line-height: 1.11
+line-height: 1.11;
 }
 
 .sub-title {
@@ -148,14 +148,14 @@ background: #2E2F42;
 }
 .footer-logo {
 color:  #4D5AE5;
-font-family: "Raleway", sans-serif
+font-family: 'Raleway', sans-serif;
 font-size: 18px;
 font-weight: 700;
 line-height: 21px; 
 letter-spacing: 0.54px;
 text-transform: uppercase;
-line-height: 1.17
-letter-spacing: 0.03em
+line-height: 1.17;
+letter-spacing: 0.03em;
 }
 .logo-end {
 color: #F4F4FD;
